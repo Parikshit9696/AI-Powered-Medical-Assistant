@@ -1,6 +1,6 @@
 # ⚕️ MedAssist AI — MERN Stack AI Medical Assistant
 
-A full-stack AI-powered medical assistant built with **MongoDB, Express, React, Node.js** and integrated with **Claude AI (Anthropic)**.
+A full-stack AI-powered medical assistant built with **MongoDB, Express, React, Node.js** .
 
 ---
 
